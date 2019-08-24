@@ -297,3 +297,10 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
+.resume-progress {
+  height: 0.6rem;
+}
+.badge-info {
+  color: #fff;
+  background-color: #337ab7;
+}
